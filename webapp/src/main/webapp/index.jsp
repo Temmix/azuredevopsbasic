@@ -3,4 +3,4 @@
 <h2> Good Luck and we are almost done with the course. Thank you Temmix</h2>
 <hr />
 <h2> Continuous integration and continous deployment completed on Azure !</h2>
-<h2> Adding automation release pipeline to the CI/CD !!! </h2>
+<h2> Trying linux to Add automation release pipeline to the CI/CD !!! </h2>
